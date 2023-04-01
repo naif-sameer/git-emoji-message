@@ -1,8 +1,5 @@
-[![](https://vsmarketplacebadge.apphb.com/version/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/installs/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/downloads/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/rating/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
-
-
-
+<!-- [![](https://vsmarketplacebadge.apphb.com/version/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/installs/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/downloads/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)  [![](https://vsmarketplacebadge.apphb.com/rating/maixiaojie.git-emoji.svg)](https://marketplace.visualstudio.com/items?itemName=maixiaojie.git-emoji)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors) -->
 
 # Git Emoji Commit
 
@@ -11,7 +8,6 @@
 ## Features
 
 This extension easily adds emoji to your commit message.
-
 
 ![](images/features_es.gif)
 
@@ -36,7 +32,6 @@ Run `ext install git-emoji` in the command palette
 The code is available under the [MIT](https://github.com/maixiaojie/git-emoji/blob/master/LICENSE) license.
 
 **Enjoy Your Every Commit!**
-
 
 ## Contributors ✨
 
